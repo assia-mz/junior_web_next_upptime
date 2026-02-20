@@ -19,7 +19,7 @@ sites:
     url: https://junioresiee.com/terms-of-service
   
 status-website:
-  baseUrl: /junior_web_next_upptime
+  baseUrl: /
   name: Junior — Status
   introTitle: ""
   introMessage: ""
