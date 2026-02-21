@@ -23,6 +23,7 @@ status-website:
   name: Junior — Status
   introTitle: ""
   introMessage: ""
+  disableCache: true
   navbar:
     - title: Status
       href: /
