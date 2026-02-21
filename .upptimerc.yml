@@ -12,21 +12,25 @@ sites:
     url: https://junioresiee.com/contact
     expectedStatusCodes:
       - 200
+    skipNotifications: true
 
   - name: Site — About
     url: https://junioresiee.com/about
     expectedStatusCodes:
       - 200
+    skipNotifications: true
 
   - name: Site — Services
     url: https://junioresiee.com/services
     expectedStatusCodes:
       - 200
+    skipNotifications: true
 
   - name: Site — CGU
     url: https://junioresiee.com/terms-of-service
     expectedStatusCodes:
       - 200
+    skipNotifications: true
   
 status-website:
   baseUrl: /junior_web_next_upptime
