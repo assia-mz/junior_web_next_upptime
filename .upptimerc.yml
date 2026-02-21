@@ -52,8 +52,3 @@ notifications:
 ci:
   node-version: 18
   cache: npm
-
-notifications:
-  - type: slack
-    webhookUrl: $SLACK_WEBHOOK_URL
-    notifyOnStatusChange: true
